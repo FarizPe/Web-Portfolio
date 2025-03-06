@@ -10,6 +10,7 @@ function cancel(){
 // Animasi Menulis
 
 const texts = [
+    "Freelance Thinker",
     "Software Engineer",
     "Mobile Developer",
     "Embedded Systems Developer",
